@@ -3,6 +3,8 @@
 *.lo
 *.o
 *.obj
+*.sdf
+Maze/Debug/
 
 # Precompiled Headers
 *.gch
